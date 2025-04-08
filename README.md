@@ -1,7 +1,4 @@
-# mi_primer_juego_Godot
-En este repositorio podrán encontrar mi primer juego 2D usando Godot
 # Proyecto: Mi primer juego en godot
-
 Este proyecto es parte de una tarea de **Simulación por Computadora**. Se desarrolló como una simulación de gestión utilizando el motor de Godot. 
 
 ## Tutorial seguido
