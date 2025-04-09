@@ -11,19 +11,18 @@ Durante el desarrollo de este proyecto, seguí un tutorial de Godot que me permi
 
 Puedes encontrar el código fuente del proyecto en el siguiente repositorio de GitHub:
 
-[Enlace al repositorio de GitHub](#)
+[https://github.com/AngelCM22/mi_primer_juego_Godot](#)
 
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone <url-del-repositorio>
+    git clone <urlhttps://github.com/AngelCM22/mi_primer_juego_Godot-del-repositorio>
     ```
 
 2. Abre el proyecto en Godot y ejecuta el juego.
 
 ## Créditos
 
-- **Desarrollado por**: [Tu nombre o nombre de tu equipo]
 - **Motor utilizado**: Godot Engine
 
